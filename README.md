@@ -21,7 +21,7 @@ There are three main measures of central tendency: the mean, the median and the 
 
 ### Mean
 
-**Mean** or **Arithmatic Average** is the value obtained by dividing the sum of all the data by the total number of data points as shown in the formula below:
+**Mean** or **Arithmetic Average** is the value obtained by dividing the sum of all the data by the total number of data points as shown in the formula below:
 ![](https://www.biologyforlife.com/uploads/2/2/3/9/22392738/mean_orig.png)
 
 > Yes, we're using the dreaded "mathematical notation". It's OK. It's just a concise way to write things down. It's along (along with long, confusion model names like "Recurrent Neural Networks") one of the ways that data scientists make so much money. The math and the long words scare people away from ideas that are actually pretty straightforward!
