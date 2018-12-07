@@ -10,13 +10,13 @@ You will be able to:
 ### Introduction and Background
 
 
-When we are work with a small set of data values, it is often possible to discuss these values individually. However when we are dealing or working with large sets of data in real world problems, we prefer to have some features that can summarize and represent the data in a concise format.
+When we are working with a small set of data values, it is often possible to discuss these values individually. However, when we are dealing or working with large sets of data in real world problems, we prefer to have some features that can summarize and represent the data in a concise format.
 
-In this lesson, we shall look at such measures first for a single data variable. e.g.,  the salary of workers in a particular factory. These measures will include measures of central tendency and measures of dispersion. 
+In this lesson, we will look at such measures first for a single data variable. e.g.,  the salary of workers in a particular factory. These measures will include measures of central tendency and measures of dispersion. 
 
-The term *Central Tendency* or a *Measure of central tendency* is the **typical** or **central** value for a data distribution. It is also commonly known as just the *Center* the distribution. If you weren't becoming a data scientist, you might just call it the "average", but it turns out that there are different types of "averages" that work better for answering different sorts of problems.
+The term *Central Tendency* or a *Measure of Central Tendency* is the **typical** or **central** value for a data distribution. It is also commonly known as just the *Center* of the distribution. If you weren't becoming a data scientist, you might just call it the "average", but it turns out that there are different types of "averages" that work better for answering different sorts of problems.
 
-There are three main measures of central tendency: the mean, the median and the mode. Each of these measures describes a different way of indicating the typical or central value in the data as we shall wee below. 
+There are three main measures of central tendency: the mean, the median and the mode. Each of these measures describes a different way of indicating the typical or central value in the data as we will see below. 
 
 
 ### Mean
